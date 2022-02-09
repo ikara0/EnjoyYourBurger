@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.HMBGR", "BilgeAdam.HMBGR\BilgeAdam.HMBGR.csproj", "{E3876311-68D3-4BB9-B79D-D4E847A1D7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgeAdam.Models", "BilgeAdam.Models\BilgeAdam.Models.csproj", "{2783918F-94AB-40A0-8B26-D7E580459954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3876311-68D3-4BB9-B79D-D4E847A1D7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3876311-68D3-4BB9-B79D-D4E847A1D7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3876311-68D3-4BB9-B79D-D4E847A1D7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3876311-68D3-4BB9-B79D-D4E847A1D7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2783918F-94AB-40A0-8B26-D7E580459954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2783918F-94AB-40A0-8B26-D7E580459954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2783918F-94AB-40A0-8B26-D7E580459954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2783918F-94AB-40A0-8B26-D7E580459954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069F6A5F-3F0B-4B7F-A2EC-82E09183EA3D}
+	EndGlobalSection
+EndGlobal
